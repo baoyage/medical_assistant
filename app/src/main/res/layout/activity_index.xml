@@ -278,7 +278,7 @@
                                 android:layout_width="0dp"
                                 android:layout_height="65dp"
                                 android:layout_weight="1"
-                                app:srcCompat="@drawable/md_local_hospital" />
+                                app:srcCompat="@drawable/kissclipart_manual_book_icon_clipart_product_manuals_book_230d625bb0f71681" />
                         </LinearLayout>
 
                         <LinearLayout
@@ -288,7 +288,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Online Inquiry">
+                                android:text="Medical Wiki">
 
                             </TextView>
                         </LinearLayout>
@@ -350,11 +350,16 @@
                         android:layout_height="wrap_content"
                         android:text="Home">
                     </com.google.android.material.tabs.TabItem>
+                    <com.google.android.material.tabs.TabItem
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Inquiry">
+                    </com.google.android.material.tabs.TabItem>
 
                     <com.google.android.material.tabs.TabItem
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Me">
+                        android:text="Setting">
                     </com.google.android.material.tabs.TabItem>
 
                 </com.google.android.material.tabs.TabLayout>
